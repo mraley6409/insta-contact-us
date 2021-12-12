@@ -2,10 +2,10 @@
 /*
 Plugin Name: Insta contact us
 Description: A plugin that automatically generates a contact form
-Plugin URI:
+Plugin URI:https://github.com/mraley6409/insta-contact-us
 Version: 1.0
 Author: Justine Kenji Dela Cruz & Maclane Raley
-Author URI:
+Author URI:https://github.com/mraley6409/insta-contact-us/graphs/contributors
 License: GPLv2 or later
 Requires at least: 4.9
 Requires PHP: 5.6
